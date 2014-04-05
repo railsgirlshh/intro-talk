@@ -1,3 +1,7 @@
+# Introductory talk for railsgirls event
+manage expactations, what is ruby on rails, get to know your tools
+
+based on
 # reveal.js [![Build Status](https://travis-ci.org/hakimel/reveal.js.png?branch=master)](https://travis-ci.org/hakimel/reveal.js)
 
 A framework for easily creating beautiful presentations using HTML. [Check out the live demo](http://lab.hakim.se/reveal-js/).
